@@ -12,6 +12,7 @@
 </div>
 
 <br>
+<br>
 
 <!-- GitHub 잔디 그래프 -->
 <div align="center">
@@ -20,6 +21,8 @@
 </div>
 
 <br>
+<br>
+
 
 <!-- Most Language -->
 <h3 align="center">📚 가장 많이 사용한 언어 📚</h3>
@@ -28,6 +31,8 @@
 </p>
 
 <br>
+<br>
+
 
 <!-- Studying... -->
 <h3 align="center">📚 현재 공부하고 있는 언어 📚</h3>
@@ -36,6 +41,8 @@
 </div>
 
 <br>
+<br>
+
 
 <!-- Tools -->
 <h3 align="center">🛠 Tools 🛠</h3>
