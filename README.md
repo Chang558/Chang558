@@ -9,7 +9,16 @@
   <p>저의 꿈은 많은 사람들에게 도움이 되고, 긍정적인 영향을 미칠수 있는 개발자가 되는것입니다.</p>
 
   <br><br><br><br>
-
+  
+  <h2> Tech Stack </h2>
+  <p>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />&nbsp;
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </p>
+  
+  <br><br><br><br>
   <h2>📈 GitHub Stats 📈</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=Chang558&show_icons=true&theme=transparent" />
 
@@ -26,7 +35,8 @@
   <br><br><br><br>
 
   <h2>📚 Studying.. 📚</h2>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white" widht=40px height=30px/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white" height = "28px" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
 
   <br><br><br><br>
 
@@ -35,9 +45,8 @@
   <p>게시판, 자랑 게시판, 게임, 손글씨 제작 및 손글씨 정확도 평가기능을 구현하였습니다.</p>
   <p>저는 백엔드 역할을 맡았고, Django 웹 애플리케이션을 활용하여 RESTful API를 사용하여 서버를 구축하였습니다.</p>
   <a href="https://github.com/kt-bigproject">
-    <img src="https://img.shields.io/badge/Ogle%20Ogle-black.svg?style=for-the-badge" alt="Ogle-Ogle" widht=40px height=30px/>
+    <img src="https://img.shields.io/badge/Ogle%20Ogle-black.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Ogle-Ogle" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);" />
   </a>
-
 
   <br><br><br><br>
 
