@@ -33,9 +33,8 @@
   <h2>🚀 내 프로젝트 🚀</h2>
   <p>K-dt 과정의 AIVLE SCHOOL 빅 프로젝트로, '손글씨 연습 플랫폼'은 글씨 쓰기에 어려움을 겪는 어린이들과 외국인을 위한 웹사이트입니다.</p>
   <p>게시판, 자랑 게시판, 게임, 손글씨 제작 및 손글씨 정확도 평가기능을 구현하였습니다.</p>
-  <img src="https://raw.githubusercontent.com/Chang558/Chang558/main/image.png" alt="손글씨 프로젝트" width = "100px" height="100px" />
   <a href="https://github.com/Chang558/kt_aivle_project">
-    <p>손글씨 프로젝트</p>
+    <img src="https://img.shields.io/badge/손글씨%20프로젝트-black.svg?style=for-the-badge" alt="손글씨 프로젝트" widht=40px height=30px/>
   </a>
 
 
