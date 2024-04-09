@@ -2,6 +2,9 @@
 <img src ="https://capsule-render.vercel.app/api?type=transparent&text=ChangYoung's+GitHub&fontColor=000000&fontSize=20" />
 </div>
 
+<br>
+<br>
+
 <div align="center">
   <h2>👋 안녕하세요!! 👋</h2>
   <p>저는 개발자를 꿈꾸는 이창영이라고 합니다.</p>
@@ -13,6 +16,8 @@
 
 <br>
 <br>
+<br>
+<br>
 
 <!-- 깃허브 통계 -->
 <div align="center">
@@ -20,6 +25,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" />
 </div>
 
+<br>
+<br>
 <br>
 <br>
 
@@ -31,10 +38,11 @@
 
 <br>
 <br>
-
+<br>
+<br>
 
 <!-- Most Language -->
-<h3 align="center">📚 가장 많이 사용한 언어 📚</h3>
+<h2 align="center">📚 가장 많이 사용한 언어 📚</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chang558&layout=donut" alt="Top Langs" />
 </p>
@@ -44,7 +52,7 @@
 
 
 <!-- Studying... -->
-<h3 align="center">📚 현재 공부하고 있는 언어 📚</h3>
+<h2 align="center">📚 현재 공부하고 있는 언어 📚</h2>
 <div align="center">
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
 </div>
@@ -65,7 +73,7 @@
 <br>
 
 <!-- Tools -->
-<h3 align="center">🛠 Tools 🛠</h3>
+<h2 align="center">🛠 Tools 🛠</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
