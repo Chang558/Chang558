@@ -26,7 +26,7 @@
   <br><br><br><br>
 
   <h2>📚 현재 공부하고 있는 언어 📚</h2>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white" widht=40px height=30px/>
 
   <br><br><br><br>
 
@@ -34,7 +34,7 @@
   <p>K-dt 과정의 AIVLE SCHOOL 빅 프로젝트로, '손글씨 연습 플랫폼'은 글씨 쓰기에 어려움을 겪는 어린이들과 외국인을 위한 웹사이트입니다.</p>
   <p>게시판, 자랑 게시판, 게임, 손글씨 제작 및 손글씨 정확도 평가기능을 구현하였습니다.</p>
   <a href="https://github.com/kt-bigproject">
-    <img src="https://img.shields.io/badge/Ogle%20Ogle-black.svg?style=for-the-badge" alt="Ogle-Ogle" widht=40px height=30px/>
+    <img src="https://img.shields.io/badge/Ogle%20Ogle-black.svg?style=for-the-badge" alt="Ogle-Ogle" widht=5px height=3px/>
   </a>
 
 
