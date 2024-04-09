@@ -45,7 +45,7 @@
   <p>게시판, 자랑 게시판, 게임, 손글씨 제작 및 손글씨 정확도 평가기능을 구현하였습니다.</p>
   <p>저는 백엔드 역할을 맡았고, Django 웹 애플리케이션을 활용하여 RESTful API를 사용하여 서버를 구축하였습니다.</p>
   <a href="https://github.com/kt-bigproject">
-    <img src="https://img.shields.io/badge/Ogle%20Ogle-black.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Ogle-Ogle" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);" />
+    <img src="https://img.shields.io/badge/Ogle%20Ogle-black.svg?style=for-the-badge&logoColor=white" alt="Ogle-Ogle" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);" />
   </a>
 
   <br><br><br><br>
