@@ -17,11 +17,12 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </p>
-  
+
+  <!-- 
   <br><br><br><br>
   <h2>📈 GitHub Stats 📈</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=Chang558&show_icons=true&theme=transparent" />
-
+-->
   <br><br><br><br>
 
   <h2>🌱 GitHub grass 🌱</h2>
