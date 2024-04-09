@@ -1,5 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&text=ChangYoung's+GitHub&fontColor=000000&fontSize=20)
+<div align="center">
+<img src ="https://capsule-render.vercel.app/api?type=transparent&text=ChangYoung's+GitHub&fontColor=000000&fontSize=20" />
+</div>
 
+<br>
 <br>
 
 <!-- 깃허브 통계 -->
