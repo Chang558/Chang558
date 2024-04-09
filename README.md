@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=ChangYoung's+GitHub&fontColor=000000&fontSize=20" font_size = 40px />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=ChangYoung's+GitHub&fontColor=000000&fontSize=40" />
   <br><br><br><br>
 
   <h2>👋 안녕하세요!! 👋</h2>
