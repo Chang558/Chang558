@@ -59,5 +59,6 @@
 
   <h3>📬 연락 방법 📬</h3>
   <p>궁금한 점이 있으시다면 아래의 이메일로 연락주세요!</p>
-  <a href="mailto:grab112@naver.com">grab112@naver.com</a>
+  <a href="mailto:grab112@naver.com" style="font-size: 20px; color: blue; text-decoration: none; background-color: yellow; padding: 10px; border-radius: 5px;">grab112@naver.com</a>
   </div>
+
