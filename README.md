@@ -57,6 +57,13 @@
 
   <br><br><br><br>
 
+  <div align="center">
+    <h4>🎉today🎉</h4>
+    <a href="https://hits.seeyoufarm.com">
+        <img
+            src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcbhan0102%2Fhit-counter&count_bg=%2370A5FC&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" /></a>
+</div>
+
 <!--
   <h3>📬 연락 방법 📬</h3>
   <p>궁금한 점이 있으시다면 아래의 이메일로 연락주세요!</p>
