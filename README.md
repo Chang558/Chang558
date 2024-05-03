@@ -41,9 +41,6 @@
   <br><br><br><br>
 
   <h2>🚀 Project 🚀</h2>
-  <p>첫번째 프로젝트는 K-dt 과정의 AIVLE SCHOOL 빅 프로젝트로, '손글씨 연습 플랫폼'은 글씨 쓰기에 어려움을 겪는 어린이들과 외국인을 위한 웹사이트입니다.</p>
-  <p>게시판, 자랑 게시판, 게임, 손글씨 제작 및 손글씨 정확도 평가기능을 구현하였습니다.</p>
-  <p>저는 백엔드 역할을 맡았고, Django 웹 애플리케이션을 활용하여 RESTful API를 사용하여 서버를 구축하였습니다.</p>
   <a href="https://github.com/kt-bigproject">
     <img src="https://img.shields.io/badge/Ogle%20Ogle-black.svg?style=for-the-badge&logoColor=white" alt="Ogle-Ogle" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);" />
   </a>
