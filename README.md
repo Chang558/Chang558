@@ -3,9 +3,7 @@
   <br><br><br><br>
 
   <h2>👋 안녕하세요!! 👋</h2>
-  <p>저는 개발자를 꿈꾸는 이창영이라고 합니다. </p>
-  <p>현재 스마트 인재 개발원에서 AWS기반 풀스택 인공지능 개발자 과정을 이수하고 있습니다.</p>
-  <p>저의 꿈은 많은 사람들에게 도움이 되고, 긍정적인 영향을 미칠수 있는 개발자가 되는것입니다.</p>
+
 
   <br><br><br><br>
   
@@ -25,7 +23,7 @@
   <br><br><br><br>
 
   <h2>🌱 GitHub grass 🌱</h2>
-  <img src="https://ghchart.rshah.org/33333/Chang558"/>
+  <img src="https://ghchart.rshah.org/Chang558" alt="GitHub grass" />
 
   <br><br><br><br>
 
