@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=ChangYoung's+GitHub&fontColor=000000&fontSize=40" />
   <br><br><br><br>
 
-  <h2>👋 안녕하세요!! 👋</h2>
+  <h2>👋Hello! 👋</h2>
+  I'm continuously growing developer 
+  
 
 
   <br><br><br><br>
@@ -22,8 +24,6 @@
 -->
   <br><br><br><br>
 
-  <h2>🌱 GitHub grass 🌱</h2>
-  <img src="https://ghchart.rshah.org/Chang558" alt="GitHub grass" />
 
   <br><br><br><br>
 
